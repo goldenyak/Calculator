@@ -14,7 +14,8 @@ function App() {
             <input value={value} className={'input'}></input>
             <div>
                 <button>1</button>
-                <button>1</button>
+                <button>2</button>
+                <button>3</button>
             </div>
         </div>
     )
